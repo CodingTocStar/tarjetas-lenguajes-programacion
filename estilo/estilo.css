@@ -1,0 +1,20 @@
+.tamaño-imagen{
+    height: 9rem;
+}
+
+body{
+    background-color: silver;
+}
+
+h1{
+    background-color: black;
+    color: red;
+}
+
+.formulario{
+    background-color: grey;
+}
+
+small{
+    color: gold;
+}
